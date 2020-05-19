@@ -1,6 +1,6 @@
-* _05/03/2020_: création du dépôt GitHub et choix du sujet
-* _23/03/2020_: au vu des données, nous avons décidé de changé notre sujet:  Trouver l'itinéraaire  adapté à vos besoins!
-* _14/05/2020_: extractions des données
-* _14/05/2020_: création des tables et mise en lien : nous avons créer un schéma expliquant la relation entre nos trois bases
-* _16/05/2020_: tri et nettoyage des données (sur excel pour le moment car impossible de travailler sur SQL, recherche de solution)
-* _18/05/2020_: remise en page du dossier et précisions effectuées pour une meilleure compréhension
+* 05/03/2020: création du dépôt GitHub et choix du sujet
+* 23/03/2020: au vu des données, nous avons décidé de changé notre sujet:  Trouver l'itinéraaire  adapté à vos besoins!
+* 14/05/2020: extractions des données
+* 14/05/2020: création des tables et mise en lien : nous avons créer un schéma expliquant la relation entre nos trois bases
+* 16/05/2020: tri et nettoyage des données (sur excel pour le moment car impossible de travailler sur SQL, recherche de solution)
+* 18/05/2020: remise en page du dossier et précisions effectuées pour une meilleure compréhension
