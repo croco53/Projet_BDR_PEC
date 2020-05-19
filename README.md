@@ -38,7 +38,7 @@ _Description_ _des_ _fichiers_ _du_ _dépôt_
 _La_ _To_ _Do_ _Liste_ :
 -
 
-* [ ]se remmettre à niveau sur l'utilisation de Github (mise en page, création de dossier...)
+- [ ]se remmettre à niveau sur l'utilisation de Github (mise en page, création de dossier...)
 * choisir le sujet d'étude
 * créer le README.txt
 * extraire les données
