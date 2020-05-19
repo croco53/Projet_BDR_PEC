@@ -30,7 +30,7 @@ _Description_ _des_ _fichiers_ _du_ _dépôt_
 -
 * _blog.txt_ : consigne notre travail au jour le jour
 * _Les_ _Données_ : dossier regroupant l'ensemble des fichiers relatifs aux données, de l'extration aux données finales
-    `* Les données brutes: composé d'un fichier en format *md* expliquant les données brutes`
+    * Les données brutes: composé d'un fichier en format `md` expliquant les données brutes et des 3 bases extraites * Le nettoyage :    * 
 
 _La_ _To_ _Do_ _Liste_ :
 -
