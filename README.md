@@ -38,13 +38,13 @@ _Description_ _des_ _fichiers_ _du_ _dépôt_
 _La_ _To_ _Do_ _Liste_ :
 -
 
-[ ]se remmettre à niveau sur l'utilisation de Github (mise en page, création de dossier...)
-[ ] choisir le sujet d'étude
-* créer le README.txt
-* extraire les données
-* établir un modèle relationnel entre les tables
-* nettoyer les données
-* créer le projet sur Django 
+* [x] se remmettre à niveau sur l'utilisation de Github (mise en page, création de dossier...)
+* [x] choisir le sujet d'étude
+* [x] créer le README.txt
+* [x] extraire les données
+* [x] établir un modèle relationnel entre les tables
+* [x] nettoyer les données
+* [ ] créer le projet sur Django 
 
 
 
