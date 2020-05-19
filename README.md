@@ -8,8 +8,8 @@ Notre projet aura pour but de trouver le meilleur itinéraire adapté à vos bes
 _Les_ _contributeurs_
 -
 
-* Eva LASSALLE 
 * Pierrine LESAGE
+* Eva LASSALLE 
 * Corentin VERRON
 
 _Les consignes_
@@ -37,6 +37,14 @@ _Description_ _des_ _fichiers_ _du_ _dépôt_
 
 _La_ _To_ _Do_ _Liste_ :
 -
+
+* []se remmettre à niveau sur l'utilisation de Github (mise en page, création de dossier...)
+* choisir le sujet d'étude
+* créer le README.txt
+* extraire les données
+* établir un modèle relationnel entre les tables
+* nettoyer les données
+* créer le projet sur Django 
 
 
 
