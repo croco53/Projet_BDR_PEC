@@ -3,6 +3,5 @@ Projet de base de données relationnelle sur les avions
 
 Pierrine LESAGE - Eva LASSALLE - Corentin VERRON
 
-Sujet: l'espace aérien français (aéroports, compagnies, ...)
+Sujet:  Trouver l'itineraire qui correspond à vos besoin!
 
-This is the beginning !
