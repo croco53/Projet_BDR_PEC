@@ -13,4 +13,8 @@ A l'aide de _Excel_, nous avons dans un premier mis ces 3 bases de données sous
 
 *Pour la variable __Stops__ (dans la base de données __route.csv__), dans un premier temps nous voulions la conserver car elle indique si un vol est direct, lorsque cette variable est égale à 0. Cependant, nous avons remarqué que celle-ci valait quasiment toujours 0, sauf dans quelques cas où elle valait 1. Par conséquent, nous avons jugé que celle-ci était inutile pour notre projet.*
 
+---
+
+Nous également supprimé les lignes lorsqu'une des variables était nulle et rajouté une colonne __id_route__ à la base de données __route.csv__. 
+
 
