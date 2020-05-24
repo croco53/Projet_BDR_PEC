@@ -5,11 +5,11 @@ Tout d'abord, pour créer notre  *modèle entité-association* , on a utilisé _
 ---
 
 Notre modèle est constitué de _3_ _entités_ constituées chacunes de plusieurs attributs :
-* aeroport :
-  `* id_aero
-  `* ville_aero
-  `* gmt_aero
-  `* pays_aero
+* _aeroport_ :
+  * id_aero
+  * ville_aero
+  * gmt_aero
+  * pays_aero
 * compagnie 
 * route 
 
