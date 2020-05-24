@@ -9,5 +9,8 @@ A l'aide de _Excel_, nous avons dans un premier mis ces 3 bases de données sous
 * aero.csv : Nous avons supprimé __IATA__, __ICAO__, __Latitude__, __Longitude__, __Altitude__, __DST__, __Tz database time zone__, __Type__ et __Source__. 
 
 * comp.csv : __Alias__, __IATA__, __ICAO__, __Callsign__ et __Active__.
-* route.csv : __Airline__, __Source airport_, __Destination airport__, __Codeshare__, __Stops__, __Equipment.
+* route.csv : __Airline__, __Source airport__, __Destination airport__, __Codeshare__, __Stops__ (On a voulu garder cette colonne car elle indique si c'est un vol direct, lorsque que cette variable est égale à 0, cependant on a remarqué qu'elle valait toujou, __Equipment__.
+
+*Pour la variable __Stops__ (dans la base de données __route.csv__), dans un premier temps nous voulions la conserver car elle indique si un vol est direct, lorsque cette variable est égale à 0. Cependant, nous avons remarqué que celle-ci valait quasiment toujours 0, sauf dans quelques cas où elle valait 1. Par conséquent, nous avons jugé que celle-ci était inutile pour notre projet.*
+
 
