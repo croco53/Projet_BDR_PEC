@@ -31,9 +31,14 @@ _Description_ _des_ _fichiers_ _du_ _dépôt_
 * _blog.txt_ : consigne notre travail au jour le jour
 * _Les_ _Données_ : dossier regroupant l'ensemble des fichiers relatifs aux données, de l'extration aux données finales
     * Les données brutes: composé d'un fichier en format `md` expliquant les données brutes et des 3 bases extraites 
-    * Le nettoyage : Le fichier _Nettoyage.md_ expliquant les différentes transformations opérées sur les 3 bases de données   
+    * Le nettoyage : fichier _Nettoyage.md_ expliquant les différentes transformations opérées sur les 3 bases de données   
     * Les données finales : composé des 3 bases de données finales au format `csv`, ainsi que le fichier _Présentatation des données.md_ qui descrit chaque base de données
 * _Schéma_ _des_ _liens_ : contient le schéma explicatif du modèle relationnel entre les tables, ainsi que le fichier _Schéma.md_ expliquant ce modèle entité-association
+* _Django_ : dossier regroupant l'ensemble des fichiers qui vont nous permettre de concevoir de notre application web
+  * acme : dossier 
+  * itineraire :
+  * templates :
+  * manage.py :
 
 _La_ _To_ _Do_ _Liste_ :
 -
