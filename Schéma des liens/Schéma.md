@@ -2,7 +2,7 @@
 
 Tout d'abord, pour créer notre  *modèle entité-association* , on a utilisé __SQL Power architect__ .
 
-----
+---
 
 Notre modèle est constitué de _3 entités_ constituées chacunes de plusieurs _attributs_ :
 
@@ -24,7 +24,7 @@ Notre modèle est constitué de _3 entités_ constituées chacunes de plusieurs 
   * id_aero_dep
   * id_aero_arr
 
---
+---
 
 Les _associations_ entre nos différentes tables :
 
