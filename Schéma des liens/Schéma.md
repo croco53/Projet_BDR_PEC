@@ -1,13 +1,13 @@
 # Explication du  système d'association
 
-Tout d'abord, pour créer notre  *modèle entité-association* , on a utilisé _SQL_ _Power_ _architect_ .
+Tout d'abord, pour créer notre  *modèle entité-association* , on a utilisé __SQL Power architect__ .
 
 ---
 
-Notre modèle est constitué de _3_ _entités_ constituées chacunes de plusieurs attributs :
+__Notre modèle est constitué de _3 entités_ constituées chacunes de plusieurs attributs :__
 
-* _aeroport_ :
-  * id_aero (clé primaire de la table _aeroport_ , elle définit de manière unique chaque enregistrement de la table _aeroport_ )
+* __aeroport__ :
+  * id_aero (clé primaire de la table __aeroport__ , elle définit de manière unique chaque enregistrement de la table __aeroport__ )
   * ville_aero
   * gmt_aero
   * pays_aero
@@ -22,5 +22,9 @@ Notre modèle est constitué de _3_ _entités_ constituées chacunes de plusieur
   * id_comp
   * id_aero_dep
   * id_aero_arr
+
+---
+
+_Les_ _associations_ _entre_ _nos_ _différentes_ _tables_ :
 
 
