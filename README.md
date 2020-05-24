@@ -35,7 +35,7 @@ _Description_ _des_ _fichiers_ _du_ _dépôt_
     * Les données finales : composé des 3 bases de données finales au format `csv`, ainsi que le fichier _Présentatation des données.md_ qui descrit chaque base de données
 * _Schéma_ _des_ _liens_ : contient le schéma explicatif du modèle relationnel entre les tables, ainsi que le fichier _Schéma.md_ expliquant ce modèle entité-association
 * _Django_ : dossier regroupant l'ensemble des fichiers qui vont nous permettre de concevoir de notre application web
-  * acme : dossier 
+  * acme : 
   * itineraire :
   * templates :
   * manage.py :
