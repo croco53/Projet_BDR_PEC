@@ -15,6 +15,6 @@ A l'aide de _Excel_, nous avons dans un premier mis ces 3 bases de données sous
 
 ---
 
-Nous également supprimé les lignes lorsqu'une des variables était nulle et rajouté une colonne __id_route__ à la base de données __route.csv__. 
+Nous avons également supprimé les lignes lorsqu'une des variables était nulle et rajouté une colonne __id_route__ à la base de données __route.csv__. 
 
 
