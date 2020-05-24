@@ -1,0 +1,20 @@
+<h1> Suggestions d'Aéroport</h1>
+
+
+    {% for aero in aeros %}
+          <article>
+            <h2># {{ aero.id_a }} :</h2>
+            <p> Identifiant de l'aéroport :{{ aero.id_aero }} </p>
+            <p> Nom de l'aéroport : {{ aero.nom_aero }} </p>
+            <p>Ville : {{ aero.ville_aero }} </p>
+              <p> Pays : {{ aero.pays_aero}} </p>
+                      <p>Fuseau horaire : {{ aero.gmt_aero }} </p>
+
+        </article>
+
+        <hr>
+    {% endfor %}
+
+<p><a href="accueil.html">Accueil</a></p>
+
+
