@@ -47,7 +47,7 @@ _La_ _To_ _Do_ _Liste_ :
 * [x] extraire les données
 * [x] établir un modèle relationnel entre les tables
 * [x] nettoyer les données
-* [ ] créer le projet sur Django 
+* [x] créer le projet sur Django 
 
 
 
