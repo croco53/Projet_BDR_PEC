@@ -1,0 +1,18 @@
+<h1> Suggestions d'Itinéraire</h1>
+
+
+    {% for iti in itis %}
+          <article>
+            <h2># {{ iti.id_r }} :</h2>
+            <p> Identifiant de l'itinéraire :{{ iti.id_route}} </p>
+            <p> Compagnie effectuant ce trajet : {{ iti.id_comp_route }} </p>
+            <p> Identifiant de l'aéroport de départ : {{ iti.id_aero_dep }} </p>
+              <p> Identifiant de l'aéroport d'arrivée : {{ iti.id_aero_arr}} </p>
+        </article>
+
+        <hr>
+    {% endfor %}
+
+<p><a href="accueil.html">Accueil</a></p>
+
+
