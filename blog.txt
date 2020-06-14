@@ -8,3 +8,4 @@
 * 23/05/2020: modification des templates, urls et views
 * 24/05/2020: création des liens, visualisations des suggestions, visualisations des bases de données
 * 13/06/2020: reprise du projet, recherche de solution pour implémenter les données
+* 14/06/2020: modification du model.py
