@@ -20,7 +20,7 @@ Notre modèle est constitué de _3 entités_ constituées chacunes de plusieurs 
   
 * __route__ :
   * id_route (clé primaire de la table __route__ )
-  * id_comp
+  * id_comp_route
   * id_aero_dep
   * id_aero_arr
 
