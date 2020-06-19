@@ -11,3 +11,5 @@
 * 14/06/2020: modification du model.py et admin.py dans Django_2
 * 15/06/2020: réunion projet, suppression de l'application intermédiaire Django
 * 15/06/2020: impossible d'intaller psycopg2, installation de psycopg2 binaire mais cela ne résoud pas le problème, recherche de solution
+* 18/06/2020: succès de l'installation de pgadmin 4, étude de création des tables
+* 19/06/2020: création des tables , création des programmes de remplissage, modification du fichier setting.py
