@@ -16,3 +16,4 @@
 * 19/06/2020: création des tables , création des programmes de remplissage, modification du fichier setting.py
 * 20/06/2020: création de views urls et templates pour faire des recherches dans les données
 * 21/06/2020: création d'un filtre pour les données
+* 21/06/2020: mise à jour de certains fichiers sur le github
