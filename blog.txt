@@ -8,8 +8,11 @@
 * 23/05/2020: modification des templates, urls et views
 * 24/05/2020: création des liens, visualisations des suggestions, visualisations des bases de données
 * 13/06/2020: reprise du projet, recherche de solution pour implémenter les données
+* 13/06/2020: nettoyage des données via un programma python et non manuellement
 * 14/06/2020: modification du model.py et admin.py dans Django_2
 * 15/06/2020: réunion projet, suppression de l'application intermédiaire Django
 * 15/06/2020: impossible d'intaller psycopg2, installation de psycopg2 binaire mais cela ne résoud pas le problème, recherche de solution
 * 18/06/2020: succès de l'installation de pgadmin 4, étude de création des tables
 * 19/06/2020: création des tables , création des programmes de remplissage, modification du fichier setting.py
+* 20/06/2020: création de views urls et templates pour faire des recherches dans les données
+* 21/06/2020: création d'un filtre pour les données
